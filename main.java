@@ -1,9 +1,12 @@
 package pegadaianGIT;
+import java.io.*;
 
 public class main {
 	public static void main(String[] args) {
-		System.out.println("this is version 1");
-		System.out.println("tes");
+		String nama;
+		String [] waw = new String [10];
+		
+		System.out.println("this is version 2");
 		System.out.println("biar familiar");
 	}
 
