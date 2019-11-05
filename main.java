@@ -6,7 +6,7 @@ public class main {
 		String nama;
 		String [] waw = new String [10];
 		
-		System.out.println("this is version 3");
+		System.out.println("this is version 4");
 		System.out.println("biar familiar");
 	}
 
